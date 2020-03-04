@@ -1,0 +1,29 @@
+.game-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #232328db;
+  height: 500px;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Contrail One', cursive;
+  font-family: 'Carrois Gothic', sans-serif;
+}
+
+.permissions-button {
+  margin: 30px;
+  font-size: 18px;
+  height: 65px;
+  width: 250px;
+  border-radius: 10px;
+  border: 1px solid;
+  box-shadow: 1px 1px 0px 2px rgba (0,0,0,0.3);
+  background: #fff;
+  font-family: 'Permanent Marker', cursive;
+  font-family: 'Contrail One', cursive;
+}
+
+.sensors-message {
+  margin: 0 50px 50px 50px;
+  text-align: center;
+}
